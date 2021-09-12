@@ -1,0 +1,11 @@
+void main () {
+  
+ List<dynamic> lst = ["aaa", "bbbb", "cccc", "1", "2", "2.2"];
+  print (lst[0]);
+  
+  
+  
+  
+  
+  
+}
